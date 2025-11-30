@@ -1,0 +1,29 @@
+[
+     {
+    "name": "Eloria",
+    "description": "A full-featured e-commerce app built with Flutter and React for web admin dashboard. Features include product management, shopping cart, and secure payments.",
+    "link": "https://github.com/yourusername/eloria",
+    "image": "/projects/eloria.jpg",
+    "lang": [
+      {
+        "name": "Next.js",
+        "icon": "/icons/next.svg"
+      },
+      
+      {
+        "name": "Supabase",
+        "icon": "/icons/supabase.svg"
+      },
+      {
+        "name": "JS",
+        "icon": "/icons/js.svg"
+      },
+      {
+        "name": "Tailwind Css",
+        "icon": "/icons/tailwind.svg"
+      }
+
+    ]
+  }
+
+]

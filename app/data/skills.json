@@ -1,0 +1,11 @@
+ [
+    { "name": "Flutter", "icon": "/icons/flutter.svg" },
+    { "name": "React", "icon": "/icons/react.svg" },
+    { "name": "JavaScript", "icon": "/icons/js.svg" },
+    { "name": "Next.js", "icon": "/icons/next.svg" },
+    { "name": "CSS", "icon": "/icons/tailwind.svg" },
+    { "name": "Supabase", "icon": "/icons/supabase.svg" },
+    { "name": "Git", "icon": "/icons/git.svg" },
+    { "name": "Firebase", "icon": "/icons/firebase.svg" },
+    { "name": "Dart", "icon": "/icons/dart.svg" }
+  ]

@@ -1,0 +1,60 @@
+[
+    {
+        "role": "Flutter Trainee",
+        "time": "Oct 2021 - Apr 2022",
+        "company": "AQ Wise",
+        "description": "As a trainee, I built foundational skills in Flutter, state management, UI layouts, and app architecture. I contributed to small internal projects and practiced converting Figma designs into functional mobile screens.",
+        "tasks": [
+            "Built basic Flutter UI screens and practiced responsive design.",
+            "Learned and applied state management (Provider / setState).",
+            "Integrated simple APIs and displayed real-time data.",
+            "Collaborated with senior developers and participated in code reviews.",
+            "Gained experience with Git, debugging, and best practices."
+        ]
+    },
+
+    {
+        "role": "QA Engineer",
+        "time": "Aug 2023 - Oct 2023",
+        "company": "Quick Bite",
+        "description": "Worked on ensuring product quality for the Quick Bite app & website by testing features, reporting bugs, and helping maintain smooth user experience. Developed strong attention to detail and understanding of user flows.",
+        "tasks": [
+            "Performed manual testing on mobile app & website features and checkout flows.",
+            "Identified, documented, and tracked bugs using internal tools.",
+            "Created test cases and validated feature behavior across devices.",
+            "Collaborated closely with developers to reproduce and resolve issues.",
+            "Contributed feedback to improve UI/UX consistency."
+        ]
+    },
+
+    {
+        "role": "Flutter Developer",
+        "time": "Nov 2023 - Jun 2025",
+        "company": "Quick Bite",
+        "description": "Joined the engineering team to build production-ready Flutter apps for customers. Worked on new features, optimized existing UI, and maintained app performance. Gained hands-on experience working with real users and real data.",
+        "tasks": [
+            "Developed new features including user authentication, orders, and real-time updates.",
+            "Integrated REST APIs with proper error handling and data models.",
+            "Improved UI components to match design system and enhance usability.",
+            "Implemented background geolocation and push notifications.",
+            "aintained the codebase, fixed bugs, and participated in weekly releases."
+        ]
+    },
+
+    {
+        "role": "React Developer",
+        "time": "July 2025 - Present",
+        "company": "Quick Bite",
+        "description": "Transitioned into React development to modernize and improve the Quick Bite web platform. Focused heavily on UI enhancements, full mobile responsiveness, and creating a smoother, more engaging user experience. Contributed to fixing long-standing bugs and adding animations that improved usability and visual flow.",
+           "tasks": [
+            "Rebuilt several pages to be fully mobile-responsive across all screen sizes.",
+            "Improved the UI by updating layout structure, spacing, colors, and visual hierarchy.",
+            "Added subtle animations and transitions to create smoother interactions using Framer Motion and Tailwind utilities.",
+            "Fixed layout issues, rendering bugs, and component glitches across the platform.",
+            "Created reusable UI components for product display, checkout, and user accounts.",
+            "Optimized rendering performance and improved load times.",
+            "Collaborated with designers and backend developers to deliver new features."
+
+        ]
+    }
+]
