@@ -12,6 +12,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <title> Dania Rachid </title>
+        <meta name="description" content="my portfolio" />
+      </head>
       <body
         className={`antialiased`}
       >
