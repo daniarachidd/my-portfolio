@@ -5,7 +5,7 @@
         "company": "AQ Wise",
         "description": "As a trainee, I built foundational skills in Flutter, state management, UI layouts, and app architecture. I contributed to small internal projects and practiced converting Figma designs into functional mobile screens.",
         "tasks": [
-            "Built basic Flutter UI screens and practiced responsive design.",
+            "Delivered pixel-perfect, responsive mobile interfaces from Figma designs.",
             "Learned and applied state management (Provider / setState).",
             "Integrated simple APIs and displayed real-time data.",
             "Collaborated with senior developers and participated in code reviews.",
@@ -37,7 +37,7 @@
             "Integrated REST APIs with proper error handling and data models.",
             "Improved UI components to match design system and enhance usability.",
             "Implemented background geolocation and push notifications.",
-            "aintained the codebase, fixed bugs, and participated in weekly releases."
+            "Maintained the codebase, fixed bugs, and participated in weekly releases."
         ]
     },
 
@@ -50,7 +50,7 @@
             "Rebuilt several pages to be fully mobile-responsive across all screen sizes.",
             "Improved the UI by updating layout structure, spacing, colors, and visual hierarchy.",
             "Added subtle animations and transitions to create smoother interactions using Framer Motion and Tailwind utilities.",
-            "Fixed layout issues, rendering bugs, and component glitches across the platform.",
+            "Enhanced platform stability and visual consistency across all device sizes.",
             "Created reusable UI components for product display, checkout, and user accounts.",
             "Optimized rendering performance and improved load times.",
             "Collaborated with designers and backend developers to deliver new features."

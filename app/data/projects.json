@@ -2,6 +2,7 @@
      {
     "name": "Eloria",
     "description": "A full-featured e-commerce app built with Flutter and React for web admin dashboard. Features include product management, shopping cart, and secure payments.",
+    "status": "",
     "link": "https://eloriastore.vercel.app/",
     "image": "/projects/eloria.png",
     "lang": [
@@ -24,6 +25,37 @@
       }
 
     ]
+  },
+  {
+    "name": "Bite Link",
+    "description":"A real-time food ordering and group cart system that allows users to create shared orders, track items, and collaborate before checkout.",
+    "status": "Beta",
+    "link": "",
+    "image": "/projects/bitelink.png",
+    "lang": [
+      {
+        "name": "Next.js",
+        "icon": "/icons/next.svg"
+      },
+      
+      {
+        "name": "Supabase",
+        "icon": "/icons/supabase.svg"
+      },
+      {
+        "name": "JS",
+        "icon": "/icons/js.svg"
+      },
+      {
+        "name": "Tailwind Css",
+        "icon": "/icons/tailwind.svg"
+      }
+
+    ]
+    
   }
+
+
+
 
 ]
