@@ -30,7 +30,7 @@
     "name": "Bite Link",
     "description":"A real-time food ordering and group cart system that allows users to create shared orders, track items, and collaborate before checkout.",
     "status": "Beta",
-    "link": "",
+    "link": "https://bitelink-one.vercel.app/",
     "image": "/projects/bitelink.png",
     "lang": [
       {
