@@ -38,9 +38,9 @@ const Hero = () => {
                     </div>
 
                     <p className="text-base text-neutral-300 font-mono font-light leading-relaxed bg-white/10 rounded-xl max-w-xl p-4">
-                        I build modern mobile and web applications with clean UI and strong performance.
-                        I started with Flutter and expanded into React, and I enjoy building smooth,
-                        practical digital experiences.
+                       Frontend developer with professional experience building React and Next.js interfaces, backed by a software engineering background across
+mobile development and QA. Built full-stack applications independently using Next.js and Supabase, including authentication, APIs, real-time
+features, and payment workflows.
                     </p>
                     <button className="bg-linear-to-r from-indigo-500 to-orange-800 via-purple-500 p-3 px-5 rounded-xl hover:scale-105 transition-transform duration-300 shadow-lg uppercase font-mono font-bold my-4 text-neutral-300"
                     // onClick={handleDownload}
