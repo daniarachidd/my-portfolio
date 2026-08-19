@@ -11,7 +11,7 @@
             "Improved the UI by updating layout structure, spacing, colors, and visual hierarchy.",
             "Added subtle animations and transitions to create smoother interactions using Framer Motion and Tailwind utilities.",
             "Enhanced platform stability and visual consistency across all device sizes.",
-            "Created reusable UI components for product display, checkout, and user accounts.",
+            "Created reusable UI components for product display, checkout, and user accounts."
 
         ]
     },
